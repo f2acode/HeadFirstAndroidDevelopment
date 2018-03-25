@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">EnjoyView</string>
-    <string name="linearLayout">Linear Layout</string>
-    <string name="gridLayout">Grid Layout</string>
-    <string name="to">To</string>
-    <string name="message">Message</string>
-    <string name="send">Send</string>
-</resources>
